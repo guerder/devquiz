@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:devquiz/shared/models/question_%20model.dart';
+import 'package:devquiz/shared/models/question_model.dart';
 
 enum Level {
   facil,
